@@ -4,7 +4,7 @@ This project focuses on **text-to-image generation** using both prebuilt and cus
 
 ## Video Submission Issue
 
-Unfortunately, due to the **Coursera upload limit** and **poor internet connection**, I was unable to upload the project demonstration video directly to the platform. Despite **scaling down** the video multiple times, it still exceeded the file size limit. As a workaround, I have uploaded the video to **GitHub** instead. You can access the video via the following link: [GitHub Video Link]()
+Unfortunately, due to the **Coursera upload limit** and **poor internet connection**, I was unable to upload the project demonstration video directly to the platform. Despite **scaling down** the video multiple times, it still exceeded the file size limit. As a workaround, I have uploaded the video to **GitHub** instead. You can access the video via the following link: [[GitHub Video Link](https://github.com/yassinnawar/TextToImage_BSc/blob/main/Final_Project%20Video_480.mov)]()
 
 ## Model Upload Limitation
 
