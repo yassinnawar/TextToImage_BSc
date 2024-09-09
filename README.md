@@ -1,7 +1,6 @@
 # Project Overview
 
 This project focuses on **text-to-image generation** using both prebuilt and custom models. The objective is to perform a **comparative analysis** of these models across various tasks using both **quantitative** and **qualitative** metrics. The implementation includes generating images based on text prompts and evaluating the results using different evaluation criteria.
-[[IPYNB Links]((https://github.com/yassinnawar/TextToImage_BSc/blob/main/TextToImage_FinalVersion_part1.ipynb))]()
 
 ## Video Submission Issue
 
